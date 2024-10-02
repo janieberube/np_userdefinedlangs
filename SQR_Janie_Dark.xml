@@ -1,5 +1,5 @@
 <NotepadPlus>
-    <UserLang name="SQR_Janie" ext="sqr sqc" udlVersion="2.1">
+    <UserLang name="SQR_Janie_Dark" ext="sqr sqc" udlVersion="2.1">
         <Settings>
             <Global caseIgnored="yes" allowFoldOfComments="no" foldCompact="no" forcePureLC="0" decimalSeparator="0" />
             <Prefix Keywords1="no" Keywords2="no" Keywords3="yes" Keywords4="yes" Keywords5="no" Keywords6="no" Keywords7="no" Keywords8="no" />
@@ -37,18 +37,18 @@
         <Styles>
             <WordsStyle name="DEFAULT" fgColor="ffffff" bgColor="3f3f3f" fontStyle="0" fontSize="9" nesting="0" />
             <WordsStyle name="COMMENTS" fgColor="6289e0" bgColor="3f3f3f" fontStyle="0" fontSize="" nesting="0" />
-            <WordsStyle name="LINE COMMENTS" fgColor="d6e4d8" bgColor="5d7561" fontStyle="1" fontSize="" nesting="0" />
-            <WordsStyle name="NUMBERS" fgColor="6289e0" bgColor="3f3f3f" fontStyle="0" fontSize="" nesting="0" />
-            <WordsStyle name="KEYWORDS1" fgColor="6289e0" bgColor="3f3f3f" fontStyle="0" fontSize="" nesting="0" />
+            <WordsStyle name="LINE COMMENTS" fgColor="c9e2d0" bgColor="5d7561" fontStyle="1" fontSize="" nesting="0" />
+            <WordsStyle name="NUMBERS" fgColor="00fff3" bgColor="3f3f3f" fontStyle="0" fontSize="" nesting="0" />
+            <WordsStyle name="KEYWORDS1" fgColor="4c78fd" bgColor="3f3f3f" fontStyle="0" fontSize="" nesting="0" />
             <WordsStyle name="KEYWORDS2" fgColor="f3281b" bgColor="3f3f3f" fontStyle="0" fontSize="" nesting="0" />
             <WordsStyle name="KEYWORDS3" fgColor="008080" bgColor="3f3f3f" fontStyle="0" fontSize="" nesting="0" />
-            <WordsStyle name="KEYWORDS4" fgColor="FF8000" bgColor="3f3f3f" fontStyle="0" fontSize="" nesting="0" />
+            <WordsStyle name="KEYWORDS4" fgColor="ffac00" bgColor="3f3f3f" fontStyle="0" fontSize="" nesting="0" />
             <WordsStyle name="KEYWORDS5" fgColor="007F7F" bgColor="3f3f3f" fontStyle="0" nesting="0" />
             <WordsStyle name="KEYWORDS6" fgColor="ffffff" bgColor="3f3f3f" fontStyle="0" nesting="0" />
             <WordsStyle name="KEYWORDS7" fgColor="ffffff" bgColor="3f3f3f" fontStyle="0" nesting="0" />
             <WordsStyle name="KEYWORDS8" fgColor="ffffff" bgColor="3f3f3f" fontStyle="0" nesting="0" />
             <WordsStyle name="OPERATORS" fgColor="299829" bgColor="3f3f3f" fontStyle="0" fontSize="" nesting="0" />
-            <WordsStyle name="FOLDER IN CODE1" fgColor="ffffff" bgColor="3f3f3f" fontStyle="0" fontSize="" nesting="0" />
+            <WordsStyle name="FOLDER IN CODE1" fgColor="b4e629" bgColor="282925" fontStyle="0" fontSize="" nesting="0" />
             <WordsStyle name="FOLDER IN CODE2" fgColor="ffffff" bgColor="FFD2D2" fontStyle="0" fontSize="" nesting="0" />
             <WordsStyle name="FOLDER IN COMMENT" fgColor="ffffff" bgColor="3f3f3f" fontStyle="0" nesting="0" />
             <WordsStyle name="DELIMITERS1" fgColor="e4a0cc" bgColor="3f3f3f" fontStyle="0" fontSize="" nesting="0" />
